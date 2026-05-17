@@ -3,7 +3,7 @@
 
 ![Analog](https://img.shields.io/badge/Analog-Electronics-orange?style=flat)
 ![PWM](https://img.shields.io/badge/PWM-555Timer-yellow?style=flat)
-![HBridge](https://img.shields.io/badge/H--Bridge-Motor Control-blue?style=flat)
+![HBridge](https://img.shields.io/badge/H--Bridge-Motor--Control-blue?style=flat)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 > Course: **CSE271s — System Dynamics and Control Components**
@@ -87,5 +87,5 @@ Inductive feedback from the motor caused timer circuit issues not captured in si
 ## 📫 Contact
 
 **Hana Hassan Hamed**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/hana-hassan-hamed/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hanahassan2006@gmail.com)
