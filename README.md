@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 > Course: **CSE271s — System Dynamics and Control Components**
-> Team: **Team 31** · 10 Members
 
 ---
 
